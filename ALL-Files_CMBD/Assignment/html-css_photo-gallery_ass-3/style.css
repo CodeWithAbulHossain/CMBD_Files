@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main {
+  width: 1180px;
+  margin: auto;
+}
+#img-1 {
+  padding: 30px 0;
+  background-color: ghostwhite;
+}
+#img-2 {
+  padding: 30px 0;
+  background-color: rgb(112, 112, 167);
+}
+#img-3 {
+  padding: 30px 0;
+  background-color: rgb(60, 60, 90);
+}
+.div-color {
+  width: 60%;
+  margin: auto;
+  padding: 30px;
+  background-color: #f1f1f1;
+}
+.heding {
+  width: 50%;
+  margin: auto;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+/* light blue - #2E7AD3
+dark blue - #104C90
+orange - #FF8000
+light gray- #F1F1F1 */
